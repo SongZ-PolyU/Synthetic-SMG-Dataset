@@ -18,9 +18,11 @@ Following our synthesizing pipeline, combinations of settings in different stage
 Detailed implementation can be found in [the paper](https://doi.org/10.1109/TUFFC.2024.3445434).
 
 ### Dataset usage
-Multiple types of accurate ground truths, i.e., mask and true SMG features, can be used to augment, train, or validate supervised models for several tasks. 
+Multiple types of accurate ground truths, i.e., mask ([aponeuosis](https://doi.org/10.1109/TUFFC.2024.3445434) and [fascicle](https://doi.org/10.1109/TUFFC.2024.3445434)) and [true SMG features](https://doi.org/10.1109/TUFFC.2024.3445434), can be found in the root . 
+
 
 File naming format: \{Initial pennation angle α\}\_\{Number of sparse fascicles S\}\_\{Initial subcutis thickness ST\}\_\{Step\}\_\{random seed of reconstruction\}
+
 
 
 ### Citing
