@@ -18,7 +18,7 @@ Following our synthesizing pipeline, combinations of settings in different stage
 Detailed implementation can be found in [the paper](https://doi.org/10.1109/TUFFC.2024.3445434).
 
 ### Dataset usage
-* Multiple types of accurate ground truths, i.e., mask ([aponeuosis](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/aponeurosis_masks.zip) and [fascicle](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/fascicle_masks.zip)) and [true SMG features](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/true_values.xlsx), can be found in the root. 
+* Multiple types of accurate ground truths, i.e., [aponeuosis masks](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/aponeurosis_masks.zip), [fascicle masks](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/fascicle_masks.zip), and [true SMG features](https://github.com/SongZ-PolyU/Synthetic-SMG-Dataset/blob/main/true_values.xlsx), are in the root. 
 
 * Ultrasound images are [here](https://drive.google.com/file/d/1_zjxt-LHBW4sJsGrGBdqmNCwMVDQb-5t/view?usp=sharing).
 
