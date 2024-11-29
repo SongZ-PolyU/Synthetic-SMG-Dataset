@@ -38,6 +38,4 @@ Please cite our paper if you find the dataset useful!
   pages={1501-1513},
   keywords={Ultrasonic imaging;Muscles;Task analysis;Pipelines;Finite element analysis;Training;Real-time systems;Diffusion model;finite element;image generation;muscle;sonomyography (SMG);ultrasound},
   doi={10.1109/TUFFC.2024.3445434}}
-
-
 ```
