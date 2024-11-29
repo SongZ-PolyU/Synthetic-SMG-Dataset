@@ -29,14 +29,15 @@ Detailed implementation can be found in [the paper](https://doi.org/10.1109/TUFF
 Please cite our paper if you find the dataset useful!
 ```
 @ARTICLE{10648656,
-  author={Song, Zhen and Zhou, Yihao and Wang, Jianfa and Ma, Christina Zong-Hao and Zheng, Yongping},
+  author={Song, Zhen and Zhou, Yihao and Wang, Jianfa and Zong-Hao Ma, Christina and Zheng, Yongping},
   journal={IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control}, 
   title={Synthesizing Real-Time Ultrasound Images of Muscle Based on Biomechanical Simulation and Conditional Diffusion Network}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Ultrasonic imaging;Muscles;Task analysis;Pipelines;Finite element analysis;Training;Real-time systems;Diffusion model;Finite element;Ultrasound;Image generation;Muscle;Sonomyography},
+  volume={71},
+  number={11},
+  pages={1501-1513},
+  keywords={Ultrasonic imaging;Muscles;Task analysis;Pipelines;Finite element analysis;Training;Real-time systems;Diffusion model;finite element;image generation;muscle;sonomyography (SMG);ultrasound},
   doi={10.1109/TUFFC.2024.3445434}}
+
 
 ```
